@@ -143,7 +143,7 @@ server.listen(port, () => {
     console.log(`It runs on port ${port}`);
 });
 
-
+module.exports = app;
 
 /*c
 classes : 
