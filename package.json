@@ -1,0 +1,22 @@
+{
+  "name": "rock-paper-scissors",
+  "version": "1.0.0",
+  "description": "an online rock paper scissors game using socktIo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.6.1"
+  },
+  "devDependencies": {
+    "bufferutil": "^4.0.7",
+    "utf-8-validate": "^5.0.10",
+    "webpack": "^5.84.1",
+    "webpack-cli": "^5.1.1"
+  }
+}
